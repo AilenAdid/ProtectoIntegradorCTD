@@ -1,0 +1,239 @@
+[2022-10-20 15:15:45] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:17:18] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:30:59] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:32:10] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:32:41] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:36:36] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:37:36] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:38:51] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:40:03] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:41:08] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:42:01] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:42:49] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:43:47] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:44:03] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:45:11] [ INFO ] [CategoryServiceImpl:79] ========== Deleting category.
+[2022-10-20 15:45:28] [ INFO ] [CategoryServiceImpl:79] ========== Deleting category.
+[2022-10-20 15:45:43] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:46:18] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:49:17] [ INFO ] [CategoryServiceImpl:79] ========== Deleting category.
+[2022-10-20 15:49:25] [ INFO ] [CategoryServiceImpl:79] ========== Deleting category.
+[2022-10-20 15:50:02] [ INFO ] [CategoryServiceImpl:26] ========== Listing all categories on DB.
+[2022-10-20 15:50:33] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:50:44] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-10-20 15:51:02] [ INFO ] [CategoryServiceImpl:26] ========== Listing all categories on DB.
+[2022-10-20 15:53:10] [ INFO ] [CategoryServiceImpl:60] ========== Validating and updating category.
+[2022-10-20 16:00:07] [ INFO ] [CategoryServiceImpl:60] ========== Validating and updating category.
+[2022-10-20 16:00:29] [ INFO ] [CategoryServiceImpl:26] ========== Listing all categories on DB.
+[2022-10-20 16:02:19] [ INFO ] [CategoryServiceImpl:60] ========== Validating and updating category.
+[2022-10-20 16:03:13] [ INFO ] [CategoryServiceImpl:49] ========== Searching category by ID
+[2022-10-20 16:03:17] [ INFO ] [CategoryServiceImpl:49] ========== Searching category by ID
+[2022-10-27 19:02:20] [ INFO ] [CategoryServiceImpl:26] ========== Listing all categories on DB.
+[2022-11-03 20:31:59] [ INFO ] [CategoryServiceImpl:26] ========== Listing all categories on DB.
+[2022-11-03 20:32:06] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-11-03 20:36:08] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 20:39:42] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 20:41:56] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 20:47:00] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 20:49:08] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:05:00] [ INFO ] [CategoryServiceImpl:32] ========== Validating and adding category.
+[2022-11-03 21:10:40] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:11:14] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:12:30] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:13:18] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:23:32] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:24:41] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:25:42] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:26:55] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:28:26] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-03 21:30:04] [ INFO ] [CityServiceImpl:34] ========== Validating and adding city.
+[2022-11-04 00:57:43] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 00:58:40] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 00:58:43] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 01:00:16] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 01:00:24] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 01:00:36] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 01:01:21] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 01:01:49] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 01:58:50] [ ERROR] [AddressServiceImpl:44] ========= Address incomplete.
+[2022-11-04 02:00:47] [ ERROR] [AddressServiceImpl:44] ========= Address incomplete.
+[2022-11-04 02:15:49] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:22:23] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 02:22:27] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:22:31] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 02:22:39] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 02:23:18] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 02:23:47] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 02:24:20] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 02:24:22] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 02:33:44] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 02:45:56] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:47:32] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:48:50] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:48:53] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 02:52:15] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 02:53:46] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:53:58] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 02:54:01] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 02:56:06] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 02:56:10] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 02:56:14] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:01:52] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:22:50] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:26:33] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:26:41] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:26:48] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:26:53] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:28:33] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:29:04] [ INFO ] [AddressServiceImpl:58] ========= Searching for address #5existance.
+[2022-11-04 12:29:04] [ INFO ] [AddressServiceImpl:63] ========= Address #5succesfully found.
+[2022-11-04 12:31:39] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:31:47] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:31:59] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:32:05] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:35:23] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:35:27] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:35:31] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:35:41] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:35:44] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:38:24] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:38:28] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:38:37] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:38:40] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:42:18] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:42:21] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:42:24] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:43:12] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:43:21] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:43:42] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:43:45] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 12:43:48] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:46:44] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 12:46:48] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:46:51] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:46:54] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:52:47] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:55:45] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:55:47] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 12:55:50] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:55:56] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:55:58] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:56:02] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:56:06] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 12:57:47] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 12:57:49] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 12:57:53] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 12:57:56] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 12:57:58] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 13:03:05] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 13:03:10] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 13:03:12] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 13:05:28] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 13:13:40] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 13:50:46] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 14:09:52] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 14:09:55] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 14:10:12] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 14:10:16] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 15:00:29] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 15:00:53] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 15:00:55] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 15:01:24] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 15:01:27] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 15:01:44] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 15:02:02] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 15:03:03] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 16:50:52] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:50:54] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-04 16:50:57] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:51:03] [ INFO ] [CategoryServiceImpl:53] ========= Searching for category #1existance.
+[2022-11-04 16:51:03] [ INFO ] [CategoryServiceImpl:58] ========= Category #1succesfully found.
+[2022-11-04 16:51:14] [ INFO ] [CategoryServiceImpl:64] ========= Updating category #1. Searching for category existance.
+[2022-11-04 16:51:14] [ INFO ] [CategoryServiceImpl:73] ========= Category #1succesfully updated.
+[2022-11-04 16:51:18] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:51:24] [ INFO ] [CategoryServiceImpl:79] ========= Deleting category.
+[2022-11-04 16:51:24] [ INFO ] [CategoryServiceImpl:85] ========= Category #1 succesfully deleted.
+[2022-11-04 16:51:27] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:51:30] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 16:54:52] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 16:55:15] [ INFO ] [CategoryServiceImpl:53] ========= Searching for city #1existance.
+[2022-11-04 16:55:15] [ ERROR] [CategoryServiceImpl:55] ========= ID:1 not found.
+[2022-11-04 16:57:21] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 16:57:26] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:57:34] [ INFO ] [CategoryServiceImpl:53] ========= Searching for city #1existance.
+[2022-11-04 16:57:34] [ ERROR] [CategoryServiceImpl:55] ========= ID:1 not found.
+[2022-11-04 16:59:12] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:59:16] [ INFO ] [CategoryServiceImpl:46] ========= City succesfully added.
+[2022-11-04 16:59:19] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-04 16:59:45] [ INFO ] [CategoryServiceImpl:53] ========= Searching for city #4existance.
+[2022-11-04 16:59:45] [ INFO ] [CategoryServiceImpl:58] ========= City #4succesfully found.
+[2022-11-04 16:59:54] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 17:00:02] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-04 17:00:05] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-04 17:00:21] [ INFO ] [CategoryServiceImpl:53] ========= Searching for city #5existance.
+[2022-11-04 17:00:21] [ INFO ] [CategoryServiceImpl:58] ========= City #5succesfully found.
+[2022-11-06 19:10:49] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-06 19:10:51] [ INFO ] [AddressServiceImpl:51] ========= Address succesfully added.
+[2022-11-06 19:10:54] [ INFO ] [AddressServiceImpl:37] ========= Set of addresses succesfully found.
+[2022-11-06 19:11:02] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-06 19:12:39] [ INFO ] [AddressServiceImpl:58] ========= Searching for address #4existance.
+[2022-11-06 19:12:39] [ INFO ] [AddressServiceImpl:63] ========= Address #4succesfully found.
+[2022-11-06 19:53:13] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:03:01] [ ERROR] [CategoryServiceImpl:42] ========= Category incomplete.
+[2022-11-06 20:04:30] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:04:31] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:04:34] [ ERROR] [CategoryServiceImpl:42] ========= Category incomplete.
+[2022-11-06 20:04:57] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-06 20:05:01] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:12:32] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:14:06] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:14:42] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:16:38] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:19:37] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:45:26] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-06 20:45:29] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:46:39] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:46:43] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-06 20:46:46] [ INFO ] [CategoryServiceImpl:35] ========= Set of categories succesfully found.
+[2022-11-06 20:55:26] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:55:42] [ INFO ] [CategoryServiceImpl:46] ========= Category succesfully added.
+[2022-11-06 20:57:34] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 20:57:59] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:02:30] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:06:12] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:06:47] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:09:16] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:09:30] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:09:37] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:12:45] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:14:26] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:14:48] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:16:02] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:35:30] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 21:39:37] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 23:11:28] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-06 23:23:00] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-07 00:14:54] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-07 00:15:37] [ INFO ] [ImageServiceImpl:42] ========= Image #12succesfully added.
+[2022-11-07 00:15:46] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-07 19:32:03] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-07 21:39:04] [ INFO ] [ImageServiceImpl:35] ========= Set of images succesfully found.
+[2022-11-18 18:12:13] [ ERROR] [CategoryServiceImpl:41] ========= Category incomplete.
+[2022-11-18 18:24:04] [ ERROR] [CategoryServiceImpl:74] ========= ID:111 not found.
+[2022-11-18 18:26:10] [ ERROR] [CategoryServiceImpl:74] ========= ID:10 not found.
+[2022-11-21 12:14:08] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-21 12:14:21] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-21 12:14:39] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-21 12:15:00] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-21 12:15:14] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-21 12:16:27] [ ERROR] [CategoryServiceImpl:52] ========= ID:1 not found.
+[2022-11-21 12:16:48] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-21 12:18:05] [ ERROR] [ProductServiceImpl:67] ========= Product incomplete.
+[2022-11-22 01:40:03] [ ERROR] [UserServiceImpl:43] ========= User not found.
+[2022-11-22 01:40:20] [ ERROR] [UserServiceImpl:43] ========= User not found.
+[2022-12-11 13:19:07] [ ERROR] [UserServiceImpl:84] ========= ID:9 not found.
+[2022-12-11 13:19:20] [ ERROR] [UserServiceImpl:84] ========= ID:8 not found.
+[2022-12-11 13:19:26] [ ERROR] [UserServiceImpl:84] ========= ID:10 not found.
+[2022-12-11 16:50:03] [ ERROR] [AddressServiceImpl:49] ========= ID:63 not found.
+[2022-12-11 16:51:36] [ ERROR] [ProductServiceImpl:38] ========= ID:63 not found.
+[2022-12-11 17:13:47] [ ERROR] [ReservationServiceImpl:72] ========= ID:4 not found.

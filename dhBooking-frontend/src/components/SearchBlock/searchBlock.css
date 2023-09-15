@@ -1,0 +1,307 @@
+/*---------Titulo------------*/
+
+.titulo-buscador h1{
+    font-weight: 700;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 28px;
+    padding-bottom: 14px;
+    }
+
+/* Modelo adaptativo tablet */
+@media screen and (min-width: 768px) {
+    .titulo-buscador h1{
+        padding-top: 16px;
+        padding-bottom: 18px;
+
+    } 
+
+}
+
+/* Modelo adaptativo destokp */
+@media screen and (min-width: 992px) {
+ .titulo-buscador h1{
+    font-size: 36px;
+    line-height: 42px;
+    padding-top: 32px;
+    padding-bottom: 15.5px;
+
+ }
+ .titulo-buscador{
+  height: 100px;
+  padding-top: 50px;
+ }
+}
+
+/*-------Bloque Busqueda-------*/
+.container-total-busqueda{
+  background: url(../../assets/wil-stewart-K_TbABnVzHo-unsplash.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 400px;
+  
+  }
+  .container {
+    height: 250px;
+    text-align: center;
+    width: 100%;
+    position: relative;
+    padding: 10px 0 25px 0; 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .subContainer {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: clamp(10px, 3.9%, 40px);
+    padding-right: clamp(10px, 3.9%, 40px);
+  }
+  
+  .grid-container {
+    width: 100%;
+    max-height: 40px;
+    display: flex;
+    flex-wrap: nowrap;
+    justify-content: center;
+  }
+  
+  form.grid-container > div {
+    margin-right: 10px;
+  }
+  .container h1 {
+    color: #ffffff;
+    font-size: var(--heading1);
+    font-weight: var(--font-bold);
+    padding-bottom: 10px;
+  }
+  
+  .date {
+    background-color: white;
+    border:0;
+    box-shadow: 0px 1px 5px rgba(0, 0, 0, 0.15);
+    border-radius: 5px;
+    color: var(--color-dos);
+    font-size: 1rem;
+    font-weight: var(--font-medium);
+    height: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+    width: 100%;
+    text-align: left;
+    padding-left: 11%;
+  }
+  
+  .icon-select-box {
+    position: relative;
+    width: clamp(254px,33vw,420px);
+    max-width: 420px;
+    height: 40px;
+  }
+  
+  .button-search,
+  .selected-dates-button {
+    height: 40px;
+    width: 100%;
+    border-radius: 5px;
+    background: var(--color-principal);
+    box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.12);
+    border-radius: 5px;
+    font-weight: 700;
+    font-size: 16px;
+    line-height: 19px;
+    text-align: center;
+    color: #FFFFFF;
+    border-color: transparent;
+  }
+  .button-search{
+    width: clamp(124px,18vw,206px);
+  }
+  .button-search:hover{
+    background-color: #bb4424;
+    cursor: pointer;
+  }
+  
+  .container-calendar-selected-dates {
+    width: 100%;
+    background-color: white;
+    padding: 0 1rem 1rem 0;
+    text-align: right;
+  }
+
+  
+  .selected-dates-button {
+    text-align: right;
+    font-size: var(--button1);
+    font-weight: var(--font-bold);
+    position: relative;
+    padding: 0.4rem 3.5rem;
+  }
+  
+  .calendar-button {
+    position: relative;
+    height: 100%;
+    background-color: #ffffff;
+    border-radius: 5px;
+  }
+  
+  
+  .calendar-button::before {
+    display: inline-block;
+    width: 24px;
+    height: 25px;
+    content: "";
+    position: absolute;
+    background: url() no-repeat;
+    left: 10px;
+    top: 9px;
+  }
+  
+  .calendar-button > div {
+    position: absolute;
+    top: 120%;  
+  }
+  
+  .hidden {
+    display: none;
+  }
+  
+  .visible {
+    position: relative;
+    z-index: 2;
+  }
+  
+  .visible-tablet {
+    position: absolute;
+    top: 120%;
+    right: -50%;
+    z-index: 100;
+  }
+  
+  .city-container {
+    display: flex;
+    position: relative;
+    
+  }
+  .city-name {
+    flex-direction: column;
+    position: relative;
+  }
+  
+  .option-location-icon {
+    position: absolute;
+    font-size: 20px;
+    top: 20%;
+    left: -6%;
+  }
+  div.icon-select-box > div > div:first-child {
+    border: 0;
+  }
+  
+  /* pendiente reducir las dos clases anteriores */
+  
+  div.icon-select-box > div:nth-child(2),
+  div.icon-select-box > div:nth-child(2) > div:first-child {
+    height: 100%;
+  }
+  
+  .titleCity, .titleCountry{
+    font-size: var(--text2);
+    font-weight: 500;
+  }
+  
+  .titleCountry{
+    color: var(--secondary-color);
+  } 
+  
+  
+  
+  @media all and (max-width:1200px) {
+    .calendar-button > div {
+      right: 0;
+    }
+  }
+  
+  @media all and (max-width: 769px) {
+    .container {
+      padding: 25px 0;
+    }
+  
+    .container h1 {
+      font-size: var(--heading2);
+    }
+  
+    .container h1 {
+      font-size: var(--heading2);
+    }
+    .city-icon{    
+      left: -17%;    
+    }
+  
+    .iconCityBar {
+      left: 4%;    
+    }
+  }
+  
+  @media all and (max-width: 600px) {
+    
+    
+    .grid-container {
+      flex-direction: column;
+      max-height: 100%;
+    }
+    .icon-select-box {
+      width: 100%;
+      max-width: 100%;
+    }
+  
+    form.grid-container > div {
+      height: 40px;
+    }
+    form.grid-container>div:nth-child(2){
+      margin:10px 0;
+    }
+    .button-search{
+      width: 100%;
+      height: 40px;
+    }
+  
+  }
+  
+  /*---------titulo----------*/
+  .titulo-buscador h1{
+    font-weight: 600;
+    font-size: 30px;
+    line-height: 35px;
+    text-align: center;
+    color: #FFFFFF;
+    padding-top: 28px;
+    padding-bottom: 14px;
+    }
+
+/* Modelo adaptativo tablet */
+@media screen and (min-width: 768px) {
+    .titulo-buscador h1{
+        padding-top: 16px;
+        padding-bottom: 18px;
+
+    } 
+
+}
+
+/* Modelo adaptativo destokp */
+@media screen and (min-width: 992px) {
+ .titulo-buscador h1{
+
+    font-size: 36px;
+    line-height: 42px;
+    padding-top: 32px;
+    padding-bottom: 15.5px;
+
+ }
+}

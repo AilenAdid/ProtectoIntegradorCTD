@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JpaPluginProjectSettings">
+    <option name="entityNameTemplate" />
+    <option name="generateJpaOnGetter" value="true" />
+    <option name="scaffoldingLanguage" />
+  </component>
+  <component name="ReverseEngineeringSettings">
+    <database-infos>
+      <database-info dbms-id="mysql">
+        <mapping-types>
+          <mapping-type sql-type="VARCHAR" java-class="java.lang.String" />
+          <mapping-type sql-type="TEXT" java-class="java.lang.String" />
+          <mapping-type sql-type="TINYINT(1)" java-class="java.lang.Character" />
+          <mapping-type sql-type="TINYTEXT" java-class="java.lang.String" />
+          <mapping-type sql-type="INTEGER" java-class="java.lang.Long" />
+          <mapping-type sql-type="INTEGER" java-class="java.lang.Integer" />
+        </mapping-types>
+      </database-info>
+    </database-infos>
+  </component>
+</project>
